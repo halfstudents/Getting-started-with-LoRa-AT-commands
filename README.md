@@ -15,6 +15,7 @@ Smart receiving power saving mode
 High sensitivity
 Control easily by AT commands
 Built-in antenna
+Get it from here: https://www.amazon.com/REYAX-RYLR998-Interface-Antenna-Transceiver/dp/B099RM1XMG
 
 Connections with Lora:
 This radio module has inbuilt nuvoton's microcontroller, which is required to set up the connection using UART(RX-TX). But this need a external programmer board to convert USB data into Serial data.
